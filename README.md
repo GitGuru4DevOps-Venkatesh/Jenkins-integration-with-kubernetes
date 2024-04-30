@@ -1,2 +1,2 @@
 # Jenkins-integration-with-kubernetes
-Jenkins-integration-with-kubernetes Project
+CI/CD Pipeline for kubernetes deployment using Jenkins
